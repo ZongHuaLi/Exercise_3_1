@@ -1,0 +1,6 @@
+model_checkpoint_path: "DetectionModel_SNR_10_Pilot_64_epoch_35"
+all_model_checkpoint_paths: "DetectionModel_SNR_10_Pilot_64_epoch_15"
+all_model_checkpoint_paths: "DetectionModel_SNR_10_Pilot_64_epoch_20"
+all_model_checkpoint_paths: "DetectionModel_SNR_10_Pilot_64_epoch_25"
+all_model_checkpoint_paths: "DetectionModel_SNR_10_Pilot_64_epoch_30"
+all_model_checkpoint_paths: "DetectionModel_SNR_10_Pilot_64_epoch_35"
