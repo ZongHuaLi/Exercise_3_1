@@ -1,6 +1,6 @@
 # Exercise 3.1: Learning-based Signal Detection for OFDM Systems
 
-This repository provides the code for Exercise 3.1. Using Deep Learning (FC-DNN) to implicitly estimate the channel and recover transmitted bits in an OFDM system, based on the paper by Ye et al. [15]. 
+This repository provides the code for Exercise 3.1. Using Deep Learning (FC-DNN) to implicitly estimate the channel and recover transmitted bits in an OFDM system, based on the paper by Ye et al. 
 
 ![alt text](DNN_Detection/Figure_Task_B.png)
 ![alt text](DNN_Detection/Figure_Task_C.png)
@@ -49,8 +49,7 @@ The project is configured for Windows 10/11 with an NVIDIA RTX 4050 GPU for hard
 
 All Model saved to Model_b, Model_c, Model_d file
 
+The H_dataset is downloaded from the following link: https://github.com/haoyye/OFDM_DNN.
 
 ## Acknowledgements
 This project includes code referenced and modified from [le-liang/wcmlbook](https://github.com/le-liang/wcmlbook.git).
-
-The H_dataset is downloaded from the following link: https://github.com/haoyye/OFDM_DNN.
