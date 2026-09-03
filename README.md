@@ -49,4 +49,8 @@ The project is configured for Windows 10/11 with an NVIDIA RTX 4050 GPU for hard
 
 All Model saved to Model_b, Model_c, Model_d file
 
+
+## Acknowledgements
+This project includes code referenced and modified from [le-liang/wcmlbook](https://github.com/le-liang/wcmlbook.git).
+
 The H_dataset is downloaded from the following link: https://github.com/haoyye/OFDM_DNN.
